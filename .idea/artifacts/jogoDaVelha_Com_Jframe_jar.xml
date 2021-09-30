@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="jogoDaVelha-Com-Jframe:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/jogoDaVelha_Com_Jframe_jar</output-path>
+    <root id="archive" name="jogoDaVelha-Com-Jframe.jar">
+      <element id="module-output" name="jogoDaVelha-Com-Jframe" />
+    </root>
+  </artifact>
+</component>
