@@ -10,6 +10,8 @@ public class Escolha {
     public Escolha(){
     }
 
+
+
     public void selecionarXouO() {
         boolean error = true;
 

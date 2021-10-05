@@ -209,19 +209,19 @@ public class UI extends JFrame {
         else if(resultado.getResult() == 2){
             if(xo && rodadaPlayer1 == 0 ){
                 xo = false;
-                vez.setText("Jogador 1 joga");
+                vez.setText("Player 1 joga");
             }
             else if(xo && rodadaPlayer2 == 1){
                 xo = false;
-                vez.setText("Jogador 2 joga");
+                vez.setText("Player 2 joga");
             }
             else if(xo && rodadaPlayer1 == 1){
                 xo = false;
-                vez.setText("Jogador 2 joga");
+                vez.setText("Player 2 joga");
             }
             else if(xo && rodadaPlayer2 == 0){
                 xo = false;
-                vez.setText("Jogador 1 joga");
+                vez.setText("Player 1 joga");
             }
         }
 
